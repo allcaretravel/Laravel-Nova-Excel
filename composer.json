@@ -16,10 +16,16 @@
       "email": "patrick@maatwebsite.nl"
     }
   ],
+  "repositories": [
+    {
+            "type": "vcs",
+            "url": "https://github.com/allcaretravel/Laravel-Excel"
+        },
+  ],
   "require": {
     "php": ">=7.1.0",
     "laravel/nova": "*",
-    "maatwebsite/excel": "3.1.7"
+    "maatwebsite/excel": "dev-dev"
   },
   "autoload": {
     "psr-4": {
