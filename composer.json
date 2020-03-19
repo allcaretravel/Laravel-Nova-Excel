@@ -20,7 +20,7 @@
     {
             "type": "vcs",
             "url": "https://github.com/allcaretravel/Laravel-Excel"
-        },
+        }
   ],
   "require": {
     "php": ">=7.1.0",
